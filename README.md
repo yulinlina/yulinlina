@@ -1,111 +1,182 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+yulinlin;Quantitative+Trading+%7C+AI+%7C+Blockchain;Building+the+future+of+DeFi+%26+AI" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=yulinlin&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%" />
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=gradient&multiline=true&width=650&height=100&lines=%24+whoami+%E2%86%92+Quant+Dev+%7C+AI+Researcher+%7C+DeFi+Builder;%24+cat+%2Fetc%2Fmotd+%E2%86%92+Turning+data+into+alpha+%F0%9F%93%88" alt="Terminal typing" />
 
-<div align="center">
+<br>
 
-[![GitHub followers](https://img.shields.io/github/followers/yulinlina?style=social)](https://github.com/yulinlina)
-[![GitHub Stars](https://img.shields.io/github/stars/yulinlina?affiliations=OWNER&style=social)](https://github.com/yulinlina?tab=repositories)
-![Profile Views](https://komarev.com/ghpvc/?username=yulinlina&color=6C63FF&style=flat&label=Profile+Views)
-[![Blog](https://img.shields.io/badge/Blog-yulinlin.cloud-FF6B6B?style=flat&logo=rss)](https://yulinlin.cloud)
+<p>
+  <a href="https://github.com/yulinlina"><img src="https://img.shields.io/github/followers/yulinlina?style=for-the-badge&logo=github&color=6C63FF&logoColor=white" /></a>
+  <a href="https://github.com/yulinlina?tab=repositories"><img src="https://img.shields.io/github/stars/yulinlina?affiliations=OWNER&style=for-the-badge&logo=starship&color=FF6B6B&logoColor=white&label=TOTAL%20STARS" /></a>
+  <img src="https://komarev.com/ghpvc/?username=yulinlina&style=for-the-badge&color=10B981&label=VISITORS" />
+  <a href="https://yulinlin.cloud"><img src="https://img.shields.io/badge/🌐_BLOG-yulinlin.cloud-FF6B6B?style=for-the-badge" /></a>
+</p>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "yulinlin"
-        self.university = "Sichuan University (SCU) 🐼"
-        self.email = "whl@scu.edu.cn"
-        self.blog = "https://yulinlin.cloud"
-        self.interests = [
-            "📈 Quantitative Trading & HFT",
-            "🤖 AI / Machine Learning / Deep Learning",
-            "⛓️ Blockchain & DeFi",
-            "🏥 Medical Image Analysis (nnU-Net)",
-        ]
-        self.currently_learning = [
-            "Reinforcement Learning for Trading",
-            "LLM-powered Trading Agents",
-            "On-chain Analytics & MEV",
-        ]
+## 🧑‍💻 Terminal
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
+```bash
+┌─[yulinlin@scu]─[~]
+└──╼ $ neofetch
 
-me = Developer()
-me.say_hi()
+         _nnnn_         yulinlin@SCU
+        dGGGGMMb        ─────────────────
+       @p~qp~~qMb       🎓 Sichuan University
+       M|@||@) M|       📍 Chengdu, China
+       @,----.JM|       📧 whl@scu.edu.cn
+      JS^\__/  qKL      🌐 yulinlin.cloud
+     dZP        qKRb
+    dZP          qKKb    ⚡ Quant Trading
+   fZP            SMMb   🤖 AI / Deep Learning
+   HZM            MMMM   ⛓️  Blockchain & DeFi
+   FqM            MMMM   🏥 Medical Imaging
+  __| ".        |\dS"qML
+  |    `.       | `' \Zq
+ _)      \.___.,|     ,'
+ \____   )MMMMMP|   .'
+      `-'       `--'
+
+┌─[yulinlin@scu]─[~]
+└──╼ $ cat skills.json
+{
+  "languages": ["Python", "C++", "Rust",
+                 "TypeScript", "Solidity"],
+  "ai_ml": ["PyTorch", "TensorFlow",
+            "Transformers", "RL"],
+  "trading": ["CCXT", "Freqtrade",
+              "vnpy", "Backtrader"],
+  "defi": ["Hardhat", "Web3.py",
+           "Foundry", "MEV"]
+}
 ```
 
----
+</td>
+<td width="45%" valign="top">
 
-## 🛠️ Tech Stack
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yulinlina&theme=radical&row=2&column=3&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
+</p>
+
+## 🎯 Focus Areas
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+```
+╔══════════════════════════════╗
+║  📈 Quantitative Trading     ║
+║  ██████████████████░░  90%   ║
+╠══════════════════════════════╣
+║  🤖 AI / Machine Learning    ║
+║  ████████████████░░░░  80%   ║
+╠══════════════════════════════╣
+║  ⛓️  Blockchain / DeFi        ║
+║  ███████████████░░░░░  75%   ║
+╠══════════════════════════════╣
+║  🏥 Medical Image Analysis   ║
+║  ██████████████░░░░░░  70%   ║
+╚══════════════════════════════╝
+```
 
-### AI & ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+</div>
 
-### Trading & Finance
-![QuantConnect](https://img.shields.io/badge/QuantConnect-F78C25?style=for-the-badge)
-![CCXT](https://img.shields.io/badge/CCXT-Crypto-8B5CF6?style=for-the-badge)
-![Freqtrade](https://img.shields.io/badge/Freqtrade-Bot-10B981?style=for-the-badge)
+</td>
+</tr>
+</table>
 
-### Blockchain
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFC836?style=for-the-badge)
+---
 
-### Tools & Infra
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+### Core Languages
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+</p>
+
+### AI / ML
+<p>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JAX-5C8EFA?style=flat-square&logo=jax&logoColor=white" />
+</p>
+
+### Trading & Quant
+<p>
+  <img src="https://img.shields.io/badge/-CCXT-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Freqtrade-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/-vnpy-E4405F?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Backtrader-1A73E8?style=flat-square" />
+  <img src="https://img.shields.io/badge/-QuantConnect-F78C25?style=flat-square" />
+</p>
+
+### Blockchain & DeFi
+<p>
+  <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hardhat-FFC836?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Foundry-F0B90B?style=flat-square" />
+</p>
+
+### Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yulinlina&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulinlina&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=yulinlina&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_answered" height="190" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulinlina&layout=donut-vertical&theme=radical&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" height="190" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yulinlina&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<img src="https://streak-stats.demolab.com?user=yulinlina&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF6B6B&ring=6C63FF&currStreakLabel=6C63FF" />
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Heatmap
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yulinlina&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yulinlina&theme=redical&hide_border=true&area=true&custom_title=Monthly+Contribution+Intensity" />
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yulinlina/yulinlina/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -113,63 +184,141 @@ me.say_hi()
 
 ## 🔥 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [nnUNet3d](https://github.com/yulinlina/nnUNet3d) | 3D Medical Image Segmentation with nnU-Net | Python, PyTorch |
-| [NexusTrader](https://github.com/yulinlina/NexusTrader) | Professional Quantitative Trading Platform | Python |
-| [FinRL](https://github.com/yulinlina/FinRL) | Financial Reinforcement Learning | Python, RL |
-| [hftbacktest](https://github.com/yulinlina/hftbacktest) | High-Frequency Trading Backtester | Python, Rust |
-| [AlphaGPT](https://github.com/yulinlina/AlphaGPT) | AI-powered Automatic Alpha Factor Factory | Python, LLM |
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 nnUNet3d
+> 3D Medical Image Segmentation
+
+![Stars](https://img.shields.io/github/stars/yulinlina/nnUNet3d?style=social) ![Last commit](https://img.shields.io/github/last-commit/yulinlina/nnUNet3d?style=flat-square&color=blue)
+
+`Python` `PyTorch` `Medical AI` `3D U-Net`
+
+[⭐ Star](https://github.com/yulinlina/nnUNet3d) | [🔗 Visit](https://github.com/yulinlina/nnUNet3d)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AlphaGPT
+> AI-Powered Alpha Factor Factory
+
+![Stars](https://img.shields.io/github/stars/yulinlina/AlphaGPT?style=social) ![Last commit](https://img.shields.io/github/last-commit/yulinlina/AlphaGPT?style=flat-square&color=blue)
+
+`LLM` `Reinforcement Learning` `Quant` `Alpha`
+
+[⭐ Star](https://github.com/yulinlina/AlphaGPT) | [🔗 Visit](https://github.com/yulinlina/AlphaGPT)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 NexusTrader
+> Pro Quantitative Trading Platform
+
+![Stars](https://img.shields.io/github/stars/yulinlina/NexusTrader?style=social) ![Last commit](https://img.shields.io/github/last-commit/yulinlina/NexusTrader?style=flat-square&color=blue)
+
+`Python` `HFT` `Strategy Engine` `Risk Mgmt`
+
+[⭐ Star](https://github.com/yulinlina/NexusTrader) | [🔗 Visit](https://github.com/yulinlina/NexusTrader)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ hftbacktest
+> High-Frequency Trading Backtester
+
+![Stars](https://img.shields.io/github/stars/yulinlina/hftbacktest?style=social) ![Last commit](https://img.shields.io/github/last-commit/yulinlina/hftbacktest?style=flat-square&color=blue)
+
+`Python` `Rust` `HFT` `Backtesting`
+
+[⭐ Star](https://github.com/yulinlina/hftbacktest) | [🔗 Visit](https://github.com/yulinlina/hftbacktest)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 FinRL
+> Financial Reinforcement Learning
+
+![Stars](https://img.shields.io/github/stars/yulinlina/FinRL?style=social) ![Last commit](https://img.shields.io/github/last-commit/yulinlina/FinRL?style=flat-square&color=blue)
+
+`Python` `RL` `Trading` `Deep Learning`
+
+[⭐ Star](https://github.com/yulinlina/FinRL) | [🔗 Visit](https://github.com/yulinlina/FinRL)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎟️ ticket-purchase
+> Auto Ticket Purchase Bot
+
+![Stars](https://img.shields.io/github/stars/yulinlina/ticket-purchase?style=social) ![Last commit](https://img.shields.io/github/last-commit/yulinlina/ticket-purchase?style=flat-square&color=blue)
+
+`Automation` `Bot` `Selenium` `Python`
+
+[⭐ Star](https://github.com/yulinlina/ticket-purchase) | [🔗 Visit](https://github.com/yulinlina/ticket-purchase)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🌱 Currently Exploring
+## 🧪 Currently Experimenting With
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────┐
-│  🧠 LLM + RL for Autonomous Trading Strategies  │
-│  ⛓️  On-chain MEV Detection & Optimization       │
-│  🏥 Deep Learning for Medical Image Analysis     │
-│  📊 Alternative Data Alpha Factor Mining         │
-└─────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  🧠  LLM Agents × RL for Autonomous Trading Strategies  │
+│                                                         │
+│  ⛓️   On-chain MEV Detection & Flashbots Optimization   │
+│                                                         │
+│  🏥  Foundation Models for Medical Image Segmentation    │
+│                                                         │
+│  📊  Alternative Data Mining with Satellite + NLP        │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## 📬 Connect With Me
+## 📬 Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-whl@scu.edu.cn-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:whl@scu.edu.cn)
-[![Blog](https://img.shields.io/badge/Blog-yulinlin.cloud-FF6B6B?style=for-the-badge&logo=rss&logoColor=white)](https://yulinlin.cloud)
-[![GitHub](https://img.shields.io/badge/GitHub-yulinlina-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yulinlina)
+<a href="mailto:whl@scu.edu.cn">
+  <img src="https://img.shields.io/badge/📧_whl@scu.edu.cn-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://yulinlin.cloud">
+  <img src="https://img.shields.io/badge/🌐_yulinlin.cloud-6C63FF?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+<a href="https://github.com/yulinlina">
+  <img src="https://img.shields.io/badge/🐙_yulinlina-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
-
----
-
-<div align="center">
-
-<details>
-<summary>🎵 Now Playing</summary>
-
-```ascii
-  ♪ ╔══════════════════════════════╗
-  ♪ ║  Coding with lo-fi beats...  ║
-  ♪ ║  ██████████░░░░░  67%        ║
-  ♪ ╚══════════════════════════════╝
-```
-
-</details>
 
 <br>
 
-**⚡ "In data we trust, in models we believe."**
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
+
+<p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+</p>
+
+<sub>⚡ "In data we trust, in alpha we believe." ⚡</sub>
 
 </div>
