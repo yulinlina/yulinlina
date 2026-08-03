@@ -64,7 +64,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yulinlina&theme=radical&row=2&column=3&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
+  <img src="https://github-trophies.vercel.app/?username=yulinlina&theme=radical&row=2&column=3&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
 </p>
 
 ## 🎯 Focus Areas
@@ -153,8 +153,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yulinlina&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_answered" height="190" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulinlina&layout=donut-vertical&theme=radical&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" height="190" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yulinlina&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="190" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yulinlina&layout=donut-vertical&theme=radical&hide_border=true&langs_count=10" height="190" />
 
 </div>
 
@@ -176,6 +176,7 @@
 
 <div align="center">
 
+<!-- Snake animation will appear after the workflow runs -->
 <img src="https://raw.githubusercontent.com/yulinlina/yulinlina/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
