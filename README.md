@@ -198,8 +198,13 @@ Describe a robot in plain English, get a simulation-ready **MuJoCo** scene with 
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yulinlina&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="190" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yulinlina&layout=donut-vertical&theme=radical&hide_border=true&langs_count=10" height="190" />
+<p>
+  <img src="https://img.shields.io/github/followers/yulinlina?style=for-the-badge&logo=github&color=6C63FF&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/yulinlina?affiliations=OWNER&style=for-the-badge&logo=starship&color=FF6B6B&logoColor=white&label=TOTAL%20STARS" />
+  <img src="https://img.shields.io/github/stars/yulinlina/start_rise?style=for-the-badge&color=10B981&logo=github&logoColor=white&label=START_RISE%20STARS" />
+  <img src="https://img.shields.io/github/commit-activity/y/yulinlina/start_rise?style=for-the-badge&color=F78C25&logo=git&logoColor=white&label=START_RISE%20COMMITS" />
+  <img src="https://img.shields.io/github/languages/top/yulinlina/start_rise?style=for-the-badge&color=0F62FE&logo=python&logoColor=white" />
+</p>
 
 </div>
 
