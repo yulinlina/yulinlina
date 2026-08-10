@@ -103,27 +103,68 @@ I'm **Wang Haolin**, an AI major at **Sichuan University (SCU)** in Chengdu. I b
 
 ### 🤖 Agents & Harnesses
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/yulinlina/start_rise">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yulinlina&repo=start_rise&theme=radical&hide_border=true&show_owner=false" />
-</a>
-<a href="https://github.com/yulinlina/mcpx">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yulinlina&repo=mcpx&theme=radical&hide_border=true&show_owner=false" />
-</a>
-<a href="https://github.com/yulinlina/clawforge">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yulinlina&repo=clawforge&theme=radical&hide_border=true&show_owner=false" />
-</a>
-<a href="https://github.com/yulinlina/simforge">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yulinlina&repo=simforge&theme=radical&hide_border=true&show_owner=false" />
-</a>
+###  start_rise
+> Autonomous multi-agent harness
 
-</div>
+LLM-driven rounds: trend analysis → spec evaluation → code generation with test-driven **self-healing** → deployment → engagement, orchestrated end-to-end by a scheduled pipeline.
 
-- **[start_rise](https://github.com/yulinlina/start_rise)** — an autonomous multi-agent harness: LLM-driven rounds of trend analysis → spec evaluation → code generation with test-driven self-healing → deployment → engagement, orchestrated end-to-end by a scheduled pipeline
-- **[mcpx](https://github.com/yulinlina/mcpx)** — MCP Context eXterminator: a transparent proxy that compresses MCP tool definitions & responses, saving up to **80% of context-window tokens** for AI coding agents
-- **[clawforge](https://github.com/yulinlina/clawforge)** — Claude Code Skill Factory & Marketplace: one command to create, test, publish and install agent skills, hooks and sub-agent configs
-- **[simforge](https://github.com/yulinlina/simforge)** — describe a robot in plain English → get a simulation-ready **MuJoCo** scene with physics, assets and RL training scripts
+![Stars](https://img.shields.io/github/stars/yulinlina/start_rise?style=social) ![Last commit](https://img.shields.io/github/last-commit/yulinlina/start_rise?style=flat-square&color=blue)
+
+`LLM Agents` `Orchestration` `Self-Healing`
+
+[⭐ Star](https://github.com/yulinlina/start_rise) | [🔗 Visit](https://github.com/yulinlina/start_rise)
+
+</td>
+<td width="50%" valign="top">
+
+### 📉 mcpx
+> MCP Context eXterminator
+
+Transparent proxy that compresses MCP tool definitions & responses — saves up to **80% of context-window tokens** for AI coding agents.
+
+![Stars](https://img.shields.io/github/stars/yulinlina/mcpx?style=social) ![Last commit](https://img.shields.io/github/last-commit/yulinlina/mcpx?style=flat-square&color=blue)
+
+`MCP` `Context Engineering` `Proxy`
+
+[⭐ Star](https://github.com/yulinlina/mcpx) | [🔗 Visit](https://github.com/yulinlina/mcpx)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏭 clawforge
+> Claude Code Skill Factory & Marketplace
+
+One command to create, test, publish and install agent skills, hooks and sub-agent configs — the npm for AI agent capabilities.
+
+![Stars](https://img.shields.io/github/stars/yulinlina/clawforge?style=social) ![Last commit](https://img.shields.io/github/last-commit/yulinlina/clawforge?style=flat-square&color=blue)
+
+`Claude Code` `Skills` `Marketplace`
+
+[⭐ Star](https://github.com/yulinlina/clawforge) | [🔗 Visit](https://github.com/yulinlina/clawforge)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 simforge
+> Plain English → robot simulation
+
+Describe a robot in plain English, get a simulation-ready **MuJoCo** scene with physics, assets and RL training scripts in seconds.
+
+![Stars](https://img.shields.io/github/stars/yulinlina/simforge?style=social) ![Last commit](https://img.shields.io/github/last-commit/yulinlina/simforge?style=flat-square&color=blue)
+
+`MuJoCo` `Codegen` `Robotics`
+
+[⭐ Star](https://github.com/yulinlina/simforge) | [🔗 Visit](https://github.com/yulinlina/simforge)
+
+</td>
+</tr>
+</table>
 
 ### 🦿 Locomotion & VLA
 
