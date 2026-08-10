@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Wang%20Haolin&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=gradient&multiline=true&width=650&height=100&lines=%24+whoami+%E2%86%92+AI+Engineer+%7C+LLM+Agents+%C3%97+Embodied+AI;%24+cat+%2Fetc%2Fmotd+%E2%86%92+Training+legs%2C+building+agents+%F0%9F%A6%BF" alt="Terminal typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=gradient&multiline=true&width=650&height=100&lines=AI+Engineer+%7C+LLM+Agents+%C3%97+Embodied+AI;%F0%9F%8E%93+AI+%40+Sichuan+University+%C2%B7+Chengdu;Training+legs%2C+building+agents+%F0%9F%A6%BF" alt="Typing" />
 
 <br>
 
@@ -17,81 +17,36 @@
 
 ---
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+## 👋 About Me
 
-## 🧑‍💻 Terminal
+I'm **Wang Haolin**, an AI major at **Sichuan University (SCU)** in Chengdu. My work sits at the intersection of **embodied AI** and **LLM agents** — training legged robots to move in the real world, and building the agent systems that reason around them.
 
-```bash
-┌─[haolin@scu]─[~]
-└──╼ $ neofetch
+- 🎓 Artificial Intelligence @ Sichuan University · Chengdu, China
+- 🔭 Main focus: **legged-robot locomotion** — RL training → simulation → real robot
+- 🦿 Platforms: **Unitree Go2 / Go2W** (wheel-legged)
+- 🧠 Methods: PPO, adversarial motion priors, human-imitation & contrastive learning
+- 🛠️ Also building **LLM agents & harnesses**: tool use, evaluation, long-running loops
+- 📫 Reach me: **whl@scu.edu.cn**
 
-         _nnnn_         haolin@SCU
-        dGGGGMMb        ─────────────────
-       @p~qp~~qMb       👤 Wang Haolin
-       M|@||@) M|       🎓 AI, Sichuan University
-       @,----.JM|       📍 Chengdu, China
-      JS^\__/  qKL      📧 whl@scu.edu.cn
-     dZP        qKRb    🌐 yulinlin.cloud
-    dZP          qKKb
-   fZP            SMMb  🦿 Embodied AI · Legged Robots
-   HZM            MMMM  🧠 Reinforcement Learning
-   FqM            MMMM  🤖 LLM Agents & Harnesses
-  __| ".        |\dS"qML
-  |    `.       | `' \Zq
- _)      \.___.,|     ,'
- \____   )MMMMMP|   .'
-      `-'       `--'
-
-┌─[haolin@scu]─[~]
-└──╼ $ cat skills.json
-{
-  "languages": ["Python", "C++", "Bash"],
-  "embodied_ai": ["Isaac Gym", "MuJoCo",
-                  "Unitree SDK 2", "ROS 2",
-                  "LibTorch (Jetson Orin)"],
-  "rl": ["PPO", "AMP", "Imitation Learning",
-         "Sim-to-Real"],
-  "llm": ["Transformers", "HuggingFace",
-          "Agent Tool Use", "Eval Harness"]
-}
-```
-
-</td>
-<td width="45%" valign="top">
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=yulinlina&theme=radical&row=2&column=3&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
-</p>
-
-## 🎯 Focus Areas
+## 🎯 What I'm Working On
 
 <div align="center">
 
-```
-╔══════════════════════════════╗
-║  🦿 Embodied AI / Locomotion ║
-║  ██████████████████░░  90%   ║
-╠══════════════════════════════╣
-║  🧠 Reinforcement Learning   ║
-║  █████████████████░░░  85%   ║
-╠══════════════════════════════╣
-║  🤖 LLM Agents & Harnesses   ║
-║  ████████████████░░░░  80%   ║
-╠══════════════════════════════╣
-║  ⚙️  Sim-to-Real Deployment   ║
-║  ███████████████░░░░░  75%   ║
-╚══════════════════════════════╩╝
-```
+<p>
+  <img src="https://img.shields.io/badge/🦿_Embodied_AI-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠_Reinforcement_Learning-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖_LLM_Agents-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🛠️_Agent_Harness-0F62FE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚙️_Sim_to_Real-F78C25?style=for-the-badge" />
+</p>
 
 </div>
 
-</td>
-</tr>
-</table>
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=yulinlina&theme=radical&row=2&column=3&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
+
+</div>
 
 ---
 
@@ -145,40 +100,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yulinlina&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="190" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yulinlina&layout=donut-vertical&theme=radical&hide_border=true&langs_count=10" height="190" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yulinlina&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF6B6B&ring=6C63FF&currStreakLabel=6C63FF" />
-
-</div>
-
----
-
-## 📈 Contribution Heatmap
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yulinlina&theme=redical&hide_border=true&area=true&custom_title=Monthly+Contribution+Intensity" />
-
-</div>
-
-<div align="center">
-
-<!-- Snake animation will appear after the workflow runs -->
-<img src="https://raw.githubusercontent.com/yulinlina/yulinlina/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
 ## 🔥 Featured Projects
 
 <div align="center">
@@ -218,23 +139,44 @@ Built on the shoulders of: [extreme-parkour](https://github.com/chengxuxin/extre
 
 ---
 
-## 🧪 Currently Experimenting With
+## 🧪 Currently Exploring
+
+- 🦿 **Wheel-legged sim-to-real** — taking Go2W RL policies from Isaac Gym onto the real robot
+- 🤖 **LLM agent harnesses** — tool use, evaluation, and reliable long-running loops
+- 🧠 **Imitation & contrastive learning** for agile locomotion skills
+- 🏞️ **Quadruped parkour** on unstructured terrain
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  🦿  Wheel-legged sim-to-real: Go2W RL policy → robot   │
-│                                                         │
-│  🤖  LLM agent harnesses: tool use, evals, long loops   │
-│                                                         │
-│  🧠  Imitation & contrastive learning for agile skills  │
-│                                                         │
-│  🏞️  Quadruped parkour on unstructured terrain          │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yulinlina&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="190" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yulinlina&layout=donut-vertical&theme=radical&hide_border=true&langs_count=10" height="190" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yulinlina&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF6B6B&ring=6C63FF&currStreakLabel=6C63FF" />
+
+</div>
+
+---
+
+## 📈 Contribution Heatmap
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yulinlina&theme=redical&hide_border=true&area=true&custom_title=Monthly+Contribution+Intensity" />
+
+</div>
+
+<div align="center">
+
+<!-- Snake animation will appear after the workflow runs -->
+<img src="https://raw.githubusercontent.com/yulinlina/yulinlina/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
