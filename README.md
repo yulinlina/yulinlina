@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Wang%20Haolin&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=gradient&multiline=true&width=650&height=100&lines=AI+Engineer+%7C+LLM+Agents+%C3%97+Embodied+AI;%F0%9F%8E%93+AI+%40+Sichuan+University+%C2%B7+Chengdu;Training+legs%2C+building+agents+%F0%9F%A6%BF" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=gradient&multiline=true&width=650&height=100&lines=AI+Engineer+%7C+LLM+Agents+%C3%97+Embodied+AI;%F0%9F%8E%93+AI+%40+Sichuan+University+%C2%B7+Chengdu;Building+agent+harnesses%2C+training+legs+%F0%9F%A6%BF" alt="Typing" />
 
 <br>
 
@@ -19,13 +19,13 @@
 
 ## 👋 About Me
 
-I'm **Wang Haolin**, an AI major at **Sichuan University (SCU)** in Chengdu. My work sits at the intersection of **embodied AI** and **LLM agents** — training legged robots to move in the real world, and building the agent systems that reason around them.
+I'm **Wang Haolin**, an AI major at **Sichuan University (SCU)** in Chengdu. I build **LLM agents and the harnesses that drive them**, and push **embodied AI** from simulation onto real legged robots and robot arms — with a side track in RL for high-frequency markets.
 
 - 🎓 Artificial Intelligence @ Sichuan University · Chengdu, China
-- 🔭 Main focus: **legged-robot locomotion** — RL training → simulation → real robot
-- 🦿 Platforms: **Unitree Go2 / Go2W** (wheel-legged)
-- 🧠 Methods: PPO, adversarial motion priors, human-imitation & contrastive learning
-- 🛠️ Also building **LLM agents & harnesses**: tool use, evaluation, long-running loops
+- 🤖 **LLM agents & harnesses** — multi-agent pipelines, MCP tooling, skill systems, context engineering
+- 🦿 **Embodied AI / VLA** — RL locomotion (PPO, imitation, AMP), π0.5 VLA deployment on edge devices
+- 📈 **RL for markets** — market making & microstructure-based direction prediction at tick level
+- 🧠 Methods I use daily: PPO · imitation learning · domain randomization · teacher-student distillation · sim2real
 - 📫 Reach me: **whl@scu.edu.cn**
 
 ## 🎯 What I'm Working On
@@ -33,11 +33,12 @@ I'm **Wang Haolin**, an AI major at **Sichuan University (SCU)** in Chengdu. My 
 <div align="center">
 
 <p>
+  <img src="https://img.shields.io/badge/🤖_LLM_Agents_--_Harnesses-10B981?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🦿_Embodied_AI-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🧠_Reinforcement_Learning-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤖_LLM_Agents-10B981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🛠️_Agent_Harness-0F62FE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠_VLA-FF9E00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯_Reinforcement_Learning-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/⚙️_Sim_to_Real-F78C25?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💹_RL_--_HFT-0F62FE?style=for-the-badge" />
 </p>
 
 </div>
@@ -61,34 +62,29 @@ I'm **Wang Haolin**, an AI major at **Sichuan University (SCU)** in Chengdu. My 
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-</p>
-
-### Robotics & Embodied AI
-<p>
-  <img src="https://img.shields.io/badge/-Isaac_Gym-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MuJoCo-008080?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Unitree_SDK_2-FF6B00?style=flat-square" />
-  <img src="https://img.shields.io/badge/-ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jetson_Orin-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LibTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-</p>
-
-### AI / RL
-<p>
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PPO-6C63FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/-AMP-FF6B6B?style=flat-square" />
-  <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
 ### LLM Agents & Harnesses
 <p>
+  <img src="https://img.shields.io/badge/-Claude_Code-1C3C3C?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MCP-0F62FE?style=flat-square" />
   <img src="https://img.shields.io/badge/-Transformers-FF9E00?style=flat-square" />
+  <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Agent_Tool_Use-0F62FE?style=flat-square" />
   <img src="https://img.shields.io/badge/-Eval_Harness-10B981?style=flat-square" />
+</p>
+
+### Robotics, VLA & RL
+<p>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Isaac_Gym-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MuJoCo-008080?style=flat-square" />
+  <img src="https://img.shields.io/badge/-%CF%800.5_VLA-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/-ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Unitree_SDK_2-FF6B00?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Jetson_Thor-76B900?style=flat-square&logo=nvidia&logoColor=white" />
 </p>
 
 ### Infrastructure
@@ -103,51 +99,57 @@ I'm **Wang Haolin**, an AI major at **Sichuan University (SCU)** in Chengdu. My 
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
+
+### 🤖 Agents & Harnesses
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🦿 HIMLoco for Go2W
-> Human-imitation locomotion on a wheel-legged robot
-
-Re-implementation of [HIMLoco](https://github.com/OpenRobotLab/HIMLoco) (ICLR 2024) on the **Unitree Go2W**: RL training in Isaac Gym, sim-to-sim validation in MuJoCo, heading toward real-robot deployment.
-
-![Stars](https://img.shields.io/github/stars/yulinlina/HimLoco-for-whee?style=social) ![Last commit](https://img.shields.io/github/last-commit/yulinlina/HimLoco-for-whee?style=flat-square&color=blue)
-
-`Isaac Gym` `MuJoCo` `PPO` `Sim-to-Real`
-
-[⭐ Star](https://github.com/yulinlina/HimLoco-for-whee) | [🔗 Visit](https://github.com/yulinlina/HimLoco-for-whee)
-
-</td>
-<td width="50%" valign="top">
-
-### 🐕 Legged Locomotion Workspace
-> RL training → simulation → real robot, end to end
-
-Daily work across the **Unitree Go2 / Go2W** pipeline: Isaac Gym RL gyms (PPO), parkour & agile skills, HIMLoco-style imitation with contrastive learning, and on-robot deployment via **unitree_sdk2 + LibTorch on Jetson Orin**.
-
-`Go2` `Go2W` `Parkour` `Deployment`
-
-Built on the shoulders of: [extreme-parkour](https://github.com/chengxuxin/extreme-parkour) · [rl_sar](https://github.com/fan-ziqi/rl_sar) · [walk-these-ways](https://github.com/Improbable-AI/walk-these-ways)
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/yulinlina/start_rise">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yulinlina&repo=start_rise&theme=radical&hide_border=true&show_owner=false" />
+</a>
+<a href="https://github.com/yulinlina/mcpx">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yulinlina&repo=mcpx&theme=radical&hide_border=true&show_owner=false" />
+</a>
+<a href="https://github.com/yulinlina/clawforge">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yulinlina&repo=clawforge&theme=radical&hide_border=true&show_owner=false" />
+</a>
+<a href="https://github.com/yulinlina/simforge">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yulinlina&repo=simforge&theme=radical&hide_border=true&show_owner=false" />
+</a>
 
 </div>
+
+- **[start_rise](https://github.com/yulinlina/start_rise)** — an autonomous multi-agent harness: LLM-driven rounds of trend analysis → spec evaluation → code generation with test-driven self-healing → deployment → engagement, orchestrated end-to-end by a scheduled pipeline
+- **[mcpx](https://github.com/yulinlina/mcpx)** — MCP Context eXterminator: a transparent proxy that compresses MCP tool definitions & responses, saving up to **80% of context-window tokens** for AI coding agents
+- **[clawforge](https://github.com/yulinlina/clawforge)** — Claude Code Skill Factory & Marketplace: one command to create, test, publish and install agent skills, hooks and sub-agent configs
+- **[simforge](https://github.com/yulinlina/simforge)** — describe a robot in plain English → get a simulation-ready **MuJoCo** scene with physics, assets and RL training scripts
+
+### 🦿 Locomotion & VLA
+
+- **π0.5 VLA real-robot deployment** — LoRA-finetuned **π0.5** (PaliGemma 2B + action expert) running closed-loop on **NVIDIA Jetson Thor** × AgileX Piper arm: natural-language pick-and-place with 10-step action chunks, full perception → inference → control loop
+- **DreamWaQ for wheel-legged robots** — adapted DreamWaQ (PPO + β-VAE implicit terrain imagination) to 4×4 wheel-legged platforms: up to **1 m step climbing**, Isaac Gym → ONNX → MuJoCo sim2sim → C++ deployment on real robots
+- **Backflip on a 60 kg quadruped** — DeepMimic-style imitation on ZJ-T30-V2: trajectory-optimization reference + PPO tracking, phase-driven control, motor torque-speed envelope
+- **AMP & CAMP multi-gait control** — adversarial motion priors for natural trot, rough-terrain curriculum and fall-recovery; skill-conditioned CAMP learns walk / trot / pronk / bound in a single policy
+- **Extreme Parkour** — end-to-end depth-vision parkour on Unitree Go2: teacher-student privileged RL, depth-latent + heading distillation, ROS 2 deployment
+- **[HIMLoco for Go2W](https://github.com/yulinlina/HimLoco-for-whee)** — human-imitation locomotion (ICLR 2024) re-implemented on the wheel-legged Go2W: Isaac Gym training + MuJoCo sim2sim
+
+### 🧠 AI Fundamentals
+
+- **[AI by Hand (Excel)](https://github.com/ImagineAILab/ai-by-hand-excel)** — deep learning rebuilt from scratch in spreadsheets: backprop, RNN/LSTM/xLSTM, ResNet, full-stack Transformer, Mamba, all the way to AlphaFold — the best way to *really* understand the math
+
+### 💹 HFT & Market Microstructure
+
+- **RLMM** — reinforcement-learning market making on Binance ETH-USDT perps: tick-level `hftbacktest` Gym environment, RecurrentPPO + LSTM with a 4-phase curriculum over ~900 days of L2 orderbook data; plus a 66-dim microstructure direction model (**84.5%** validation accuracy, profitable on 93/100 out-of-sample days)
 
 ---
 
 ## 🧪 Currently Exploring
 
+- 🤖 **Agent harness engineering** — long-running loops, context budgeting, skill ecosystems
+- 🧠 **VLA on the edge** — shrinking π0-class models onto Jetson-class devices with usable control rates
 - 🦿 **Wheel-legged sim-to-real** — taking Go2W RL policies from Isaac Gym onto the real robot
-- 🤖 **LLM agent harnesses** — tool use, evaluation, and reliable long-running loops
-- 🧠 **Imitation & contrastive learning** for agile locomotion skills
-- 🏞️ **Quadruped parkour** on unstructured terrain
+- 🏞️ **Agile skills** — imitation & contrastive learning for parkour-class maneuvers
 
 ---
 
