@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=yulinlin&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Wang%20Haolin&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=gradient&multiline=true&width=650&height=100&lines=%24+whoami+%E2%86%92+Quant+Dev+%7C+AI+Researcher+%7C+DeFi+Builder;%24+cat+%2Fetc%2Fmotd+%E2%86%92+Turning+data+into+alpha+%F0%9F%93%88" alt="Terminal typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=gradient&multiline=true&width=650&height=100&lines=%24+whoami+%E2%86%92+AI+Engineer+%7C+LLM+Agents+%C3%97+Embodied+AI;%24+cat+%2Fetc%2Fmotd+%E2%86%92+Training+legs%2C+building+agents+%F0%9F%A6%BF" alt="Terminal typing" />
 
 <br>
 
@@ -24,37 +24,37 @@
 ## 🧑‍💻 Terminal
 
 ```bash
-┌─[yulinlin@scu]─[~]
+┌─[haolin@scu]─[~]
 └──╼ $ neofetch
 
-         _nnnn_         yulinlin@SCU
+         _nnnn_         haolin@SCU
         dGGGGMMb        ─────────────────
-       @p~qp~~qMb       🎓 Sichuan University
-       M|@||@) M|       📍 Chengdu, China
-       @,----.JM|       📧 whl@scu.edu.cn
-      JS^\__/  qKL      🌐 yulinlin.cloud
-     dZP        qKRb
-    dZP          qKKb    ⚡ Quant Trading
-   fZP            SMMb   🤖 AI / Deep Learning
-   HZM            MMMM   ⛓️  Blockchain & DeFi
-   FqM            MMMM   🏥 Medical Imaging
+       @p~qp~~qMb       👤 Wang Haolin
+       M|@||@) M|       🎓 AI, Sichuan University
+       @,----.JM|       📍 Chengdu, China
+      JS^\__/  qKL      📧 whl@scu.edu.cn
+     dZP        qKRb    🌐 yulinlin.cloud
+    dZP          qKKb
+   fZP            SMMb  🦿 Embodied AI · Legged Robots
+   HZM            MMMM  🧠 Reinforcement Learning
+   FqM            MMMM  🤖 LLM Agents & Harnesses
   __| ".        |\dS"qML
   |    `.       | `' \Zq
  _)      \.___.,|     ,'
  \____   )MMMMMP|   .'
       `-'       `--'
 
-┌─[yulinlin@scu]─[~]
+┌─[haolin@scu]─[~]
 └──╼ $ cat skills.json
 {
-  "languages": ["Python", "C++", "Rust",
-                 "TypeScript", "Solidity"],
-  "ai_ml": ["PyTorch", "TensorFlow",
-            "Transformers", "RL"],
-  "trading": ["CCXT", "Freqtrade",
-              "vnpy", "Backtrader"],
-  "defi": ["Hardhat", "Web3.py",
-           "Foundry", "MEV"]
+  "languages": ["Python", "C++", "Bash"],
+  "embodied_ai": ["Isaac Gym", "MuJoCo",
+                  "Unitree SDK 2", "ROS 2",
+                  "LibTorch (Jetson Orin)"],
+  "rl": ["PPO", "AMP", "Imitation Learning",
+         "Sim-to-Real"],
+  "llm": ["Transformers", "HuggingFace",
+          "Agent Tool Use", "Eval Harness"]
 }
 ```
 
@@ -73,18 +73,18 @@
 
 ```
 ╔══════════════════════════════╗
-║  📈 Quantitative Trading     ║
+║  🦿 Embodied AI / Locomotion ║
 ║  ██████████████████░░  90%   ║
 ╠══════════════════════════════╣
-║  🤖 AI / Machine Learning    ║
+║  🧠 Reinforcement Learning   ║
+║  █████████████████░░░  85%   ║
+╠══════════════════════════════╣
+║  🤖 LLM Agents & Harnesses   ║
 ║  ████████████████░░░░  80%   ║
 ╠══════════════════════════════╣
-║  ⛓️  Blockchain / DeFi        ║
+║  ⚙️  Sim-to-Real Deployment   ║
 ║  ███████████████░░░░░  75%   ║
-╠══════════════════════════════╣
-║  🏥 Medical Image Analysis   ║
-║  ██████████████░░░░░░  70%   ║
-╚══════════════════════════════╝
+╚══════════════════════════════╩╝
 ```
 
 </div>
@@ -103,46 +103,42 @@
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
 
-### AI / ML
+### Robotics & Embodied AI
+<p>
+  <img src="https://img.shields.io/badge/-Isaac_Gym-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MuJoCo-008080?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Unitree_SDK_2-FF6B00?style=flat-square" />
+  <img src="https://img.shields.io/badge/-ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jetson_Orin-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LibTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+</p>
+
+### AI / RL
 <p>
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PPO-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-AMP-FF6B6B?style=flat-square" />
   <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JAX-5C8EFA?style=flat-square&logo=jax&logoColor=white" />
 </p>
 
-### Trading & Quant
+### LLM Agents & Harnesses
 <p>
-  <img src="https://img.shields.io/badge/-CCXT-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Freqtrade-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/-vnpy-E4405F?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Backtrader-1A73E8?style=flat-square" />
-  <img src="https://img.shields.io/badge/-QuantConnect-F78C25?style=flat-square" />
-</p>
-
-### Blockchain & DeFi
-<p>
-  <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Hardhat-FFC836?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Foundry-F0B90B?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Transformers-FF9E00?style=flat-square" />
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Agent_Tool_Use-0F62FE?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Eval_Harness-10B981?style=flat-square" />
 </p>
 
 ### Infrastructure
 <p>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 </div>
@@ -191,78 +187,28 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 nnUNet3d
-> 3D Medical Image Segmentation
+### 🦿 HIMLoco for Go2W
+> Human-imitation locomotion on a wheel-legged robot
 
-![Stars](https://img.shields.io/github/stars/yulinlina/nnUNet3d?style=social) ![Last commit](https://img.shields.io/github/last-commit/yulinlina/nnUNet3d?style=flat-square&color=blue)
+Re-implementation of [HIMLoco](https://github.com/OpenRobotLab/HIMLoco) (ICLR 2024) on the **Unitree Go2W**: RL training in Isaac Gym, sim-to-sim validation in MuJoCo, heading toward real-robot deployment.
 
-`Python` `PyTorch` `Medical AI` `3D U-Net`
+![Stars](https://img.shields.io/github/stars/yulinlina/HimLoco-for-whee?style=social) ![Last commit](https://img.shields.io/github/last-commit/yulinlina/HimLoco-for-whee?style=flat-square&color=blue)
 
-[⭐ Star](https://github.com/yulinlina/nnUNet3d) | [🔗 Visit](https://github.com/yulinlina/nnUNet3d)
+`Isaac Gym` `MuJoCo` `PPO` `Sim-to-Real`
 
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AlphaGPT
-> AI-Powered Alpha Factor Factory
-
-![Stars](https://img.shields.io/github/stars/yulinlina/AlphaGPT?style=social) ![Last commit](https://img.shields.io/github/last-commit/yulinlina/AlphaGPT?style=flat-square&color=blue)
-
-`LLM` `Reinforcement Learning` `Quant` `Alpha`
-
-[⭐ Star](https://github.com/yulinlina/AlphaGPT) | [🔗 Visit](https://github.com/yulinlina/AlphaGPT)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 NexusTrader
-> Pro Quantitative Trading Platform
-
-![Stars](https://img.shields.io/github/stars/yulinlina/NexusTrader?style=social) ![Last commit](https://img.shields.io/github/last-commit/yulinlina/NexusTrader?style=flat-square&color=blue)
-
-`Python` `HFT` `Strategy Engine` `Risk Mgmt`
-
-[⭐ Star](https://github.com/yulinlina/NexusTrader) | [🔗 Visit](https://github.com/yulinlina/NexusTrader)
+[⭐ Star](https://github.com/yulinlina/HimLoco-for-whee) | [🔗 Visit](https://github.com/yulinlina/HimLoco-for-whee)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ hftbacktest
-> High-Frequency Trading Backtester
+### 🐕 Legged Locomotion Workspace
+> RL training → simulation → real robot, end to end
 
-![Stars](https://img.shields.io/github/stars/yulinlina/hftbacktest?style=social) ![Last commit](https://img.shields.io/github/last-commit/yulinlina/hftbacktest?style=flat-square&color=blue)
+Daily work across the **Unitree Go2 / Go2W** pipeline: Isaac Gym RL gyms (PPO), parkour & agile skills, HIMLoco-style imitation with contrastive learning, and on-robot deployment via **unitree_sdk2 + LibTorch on Jetson Orin**.
 
-`Python` `Rust` `HFT` `Backtesting`
+`Go2` `Go2W` `Parkour` `Deployment`
 
-[⭐ Star](https://github.com/yulinlina/hftbacktest) | [🔗 Visit](https://github.com/yulinlina/hftbacktest)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 FinRL
-> Financial Reinforcement Learning
-
-![Stars](https://img.shields.io/github/stars/yulinlina/FinRL?style=social) ![Last commit](https://img.shields.io/github/last-commit/yulinlina/FinRL?style=flat-square&color=blue)
-
-`Python` `RL` `Trading` `Deep Learning`
-
-[⭐ Star](https://github.com/yulinlina/FinRL) | [🔗 Visit](https://github.com/yulinlina/FinRL)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎟️ ticket-purchase
-> Auto Ticket Purchase Bot
-
-![Stars](https://img.shields.io/github/stars/yulinlina/ticket-purchase?style=social) ![Last commit](https://img.shields.io/github/last-commit/yulinlina/ticket-purchase?style=flat-square&color=blue)
-
-`Automation` `Bot` `Selenium` `Python`
-
-[⭐ Star](https://github.com/yulinlina/ticket-purchase) | [🔗 Visit](https://github.com/yulinlina/ticket-purchase)
+Built on the shoulders of: [extreme-parkour](https://github.com/chengxuxin/extreme-parkour) · [rl_sar](https://github.com/fan-ziqi/rl_sar) · [walk-these-ways](https://github.com/Improbable-AI/walk-these-ways)
 
 </td>
 </tr>
@@ -279,13 +225,13 @@
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│  🧠  LLM Agents × RL for Autonomous Trading Strategies  │
+│  🦿  Wheel-legged sim-to-real: Go2W RL policy → robot   │
 │                                                         │
-│  ⛓️   On-chain MEV Detection & Flashbots Optimization   │
+│  🤖  LLM agent harnesses: tool use, evals, long loops   │
 │                                                         │
-│  🏥  Foundation Models for Medical Image Segmentation    │
+│  🧠  Imitation & contrastive learning for agile skills  │
 │                                                         │
-│  📊  Alternative Data Mining with Satellite + NLP        │
+│  🏞️  Quadruped parkour on unstructured terrain          │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
@@ -320,7 +266,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
 </p>
 
-<sub>⚡ "In data we trust, in alpha we believe." ⚡</sub>
+<sub>⚡ "知行合一 — knowledge and action as one." ⚡</sub>
 
 </div>
-
