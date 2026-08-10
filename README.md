@@ -44,7 +44,10 @@ I'm **Wang Haolin**, an AI major at **Sichuan University (SCU)** in Chengdu. My 
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=yulinlina&theme=radical&row=2&column=3&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=yulinlina&theme=radical&row=2&column=3&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
+  <img src="https://github-trophies.vercel.app/?username=yulinlina&theme=default&row=2&column=3&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</picture>
 
 </div>
 
